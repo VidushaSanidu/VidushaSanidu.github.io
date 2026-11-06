@@ -6,4 +6,5 @@ dotenv.config(); // Load .env variables
 
 export default defineConfig({
   plugins: [react()],
+  base: process.env.BASE_PATH || "/",
 });

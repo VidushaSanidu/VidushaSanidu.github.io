@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Personal portfolio website showcasing full-stack development, AI automation, and cloud solutions by Vidusha Sanidu",
   "author": "Vidusha Sanidu <vidushsanidu07@gmail.com>",
-  "homepage": "https://vidushasanidu.dev",
+  "homepage": "https://vidushasanidu.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
